@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/webdev/static/css/main.e3de1163.css",
+    "main.js": "/webdev/static/js/main.fffe052f.js",
+    "static/media/no_user.jpeg": "/webdev/static/media/no_user.f82a4332dba1037c127d.jpeg",
+    "static/media/blog-2.jpg": "/webdev/static/media/blog-2.a3481c4312e013cd3d38.jpg",
+    "static/media/blog-1.jpeg": "/webdev/static/media/blog-1.dc17e2811042ee1d4afc.jpeg",
+    "static/media/carousel-1.jpg": "/webdev/static/media/carousel-1.eb83b18a509037452406.jpg",
+    "static/media/header.jpg": "/webdev/static/media/header.7fc2ff7b38e0357169ce.jpg",
+    "static/media/tie.jpg": "/webdev/static/media/tie.4c071adb3a84d3ee35dd.jpg",
+    "static/media/shams.jpg": "/webdev/static/media/shams.08c3e93472f7d3a1ee20.jpg",
+    "static/media/fiver.png": "/webdev/static/media/fiver.07c36e8b8ec7873af6bf.png",
+    "static/media/no.jpg": "/webdev/static/media/no.707e506e4dea59a957ef.jpg",
+    "static/media/home.jpg": "/webdev/static/media/home.d572e002ac3f97fa7cff.jpg",
+    "static/media/carousel-3.jpg": "/webdev/static/media/carousel-3.95f20f733d0bc116e1d2.jpg",
+    "static/media/carousel-2.jpg": "/webdev/static/media/carousel-2.48916ab83aa53b1a1ddf.jpg",
+    "static/media/upwork.png": "/webdev/static/media/upwork.cb0205e667b55192db94.png",
+    "static/media/no_friends.jfif": "/webdev/static/media/no_friends.7540b3eeab7532d0566f.jfif",
+    "index.html": "/webdev/index.html",
+    "main.e3de1163.css.map": "/webdev/static/css/main.e3de1163.css.map",
+    "main.fffe052f.js.map": "/webdev/static/js/main.fffe052f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3de1163.css",
+    "static/js/main.fffe052f.js"
+  ]
+}
